@@ -110,23 +110,15 @@ TuneTix/
 - **EventStatus**: Status ketersediaan (AVAILABLE, SOLD_OUT)
 - **PaymentStatus**: Status pembayaran (PENDING, SUCCESS, FAILED)
 
-## 📝 Contoh Output
+## 📝 Screenshot Aplikasi
 
-### Console Output
-```
-=== TIKET KONSER ===
-Nama Pemegang: John Doe
-Event: Rock Concert 2024
-Venue: Jakarta Convention Center, Jakarta
-Tanggal: 2024-12-25
-Kategori: VIP
-Harga: Rp 500,000
-Kode Tiket: TICK001
-===================
-```
+![TuneTix Application Screenshot](https://github.com/MIJOHETA/OOP-PROYEK-KELOMPOK/blob/main/src/WhatsApp%20Image%202025-06-13%20at%2021.01.49_040d95d1.jpg)
 
-### File Output
-File `Tiket_John_Doe_Rock_Concert_2024.txt` akan dibuat dengan detail tiket yang sama.
+*Screenshot menampilkan antarmuka aplikasi TuneTix dengan berbagai fitur pemesanan tiket konser.*
+
+### Output Files
+- **Console Output**: Detail tiket akan tercetak di terminal/konsol
+- **File Output**: File `.txt` dengan format `Tiket_[Nama]_[Event].txt` akan dibuat di direktori aplikasi
 
 ## 🔧 Kustomisasi
 
